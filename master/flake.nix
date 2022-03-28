@@ -11,7 +11,6 @@
   inputs.src-nimothello-master.ref   = "refs/heads/master";
   inputs.src-nimothello-master.owner = "jiro4989";
   inputs.src-nimothello-master.repo  = "nimothello";
-  inputs.src-nimothello-master.dir   = "";
   inputs.src-nimothello-master.type  = "github";
   
   inputs."illwill".owner = "nim-nix-pkgs";
